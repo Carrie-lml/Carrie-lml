@@ -28,7 +28,7 @@ Combines Python analytics and Power BI dashboards to visualize key metrics such 
 
 ## 📫 Get in Touch
 - **Email**: carriely2023@gmail.com
-- **LinkedIn**: www.linkedin.com/in/meiling-li-4186912b5(was hacked currently)
+- **LinkedIn**: www.linkedin.com/in/meiling-li-4186912b5
 
 ## 🌟 Thanks for Visiting!
 If you find my projects interesting, feel free to ⭐ star or fork them! I'm always open to collaborations and discussions, so don't hesitate to reach out.
