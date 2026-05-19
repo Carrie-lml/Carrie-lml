@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Meiling Li
 
-Geospatial and data professional based in Christchurch, New Zealand.
-BSc in GIS · Master of Applied Data Science, University of Canterbury
-Commended by Head of School for academic achievement (2025)
-
 I enjoy working at the intersection of spatial analysis, data engineering,
 and applied AI — building things that help people make sense of complex data.
 
